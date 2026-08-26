@@ -296,7 +296,7 @@ textarea {
     width: 100%;
     max-height: 400px; 
     display: block;
-    object-fit: cover; }
+    object-fit: contain; }
   .projects__row-content {
     padding: 2rem 0;
     display: flex;
