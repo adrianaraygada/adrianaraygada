@@ -294,7 +294,7 @@ textarea {
     overflow: hidden; }
   .projects__row-img {
     width: 100%;
-    max-height: 300px; 
+    max-height: 400px; 
     display: block;
     object-fit: cover; }
   .projects__row-content {
