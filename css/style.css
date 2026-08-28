@@ -303,7 +303,8 @@ textarea {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    align-items: flex-start; }
+    align-items: flex-start;
+  gap: 10px}
     @media only screen and (max-width: 56.25em) {
       .projects__row-content {
         align-items: center; } }
